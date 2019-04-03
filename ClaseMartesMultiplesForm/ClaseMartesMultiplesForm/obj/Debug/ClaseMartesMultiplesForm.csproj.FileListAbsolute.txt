@@ -1,0 +1,9 @@
+c:\users\lab3\documents\visual studio 2013\Projects\ClaseMartesMultiplesForm\ClaseMartesMultiplesForm\bin\Debug\ClaseMartesMultiplesForm.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\ClaseMartesMultiplesForm\ClaseMartesMultiplesForm\bin\Debug\ClaseMartesMultiplesForm.exe
+c:\users\lab3\documents\visual studio 2013\Projects\ClaseMartesMultiplesForm\ClaseMartesMultiplesForm\bin\Debug\ClaseMartesMultiplesForm.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\ClaseMartesMultiplesForm\ClaseMartesMultiplesForm\obj\Debug\ClaseMartesMultiplesForm.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\ClaseMartesMultiplesForm\ClaseMartesMultiplesForm\obj\Debug\ClaseMartesMultiplesForm.Form1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\ClaseMartesMultiplesForm\ClaseMartesMultiplesForm\obj\Debug\ClaseMartesMultiplesForm.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\ClaseMartesMultiplesForm\ClaseMartesMultiplesForm\obj\Debug\ClaseMartesMultiplesForm.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\ClaseMartesMultiplesForm\ClaseMartesMultiplesForm\obj\Debug\ClaseMartesMultiplesForm.exe
+c:\users\lab3\documents\visual studio 2013\Projects\ClaseMartesMultiplesForm\ClaseMartesMultiplesForm\obj\Debug\ClaseMartesMultiplesForm.pdb
