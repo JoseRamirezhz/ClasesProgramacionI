@@ -1,0 +1,12 @@
+c:\users\lab3\documents\visual studio 2013\Projects\Proyecto0005\Proyecto0005\bin\Debug\Proyecto0005.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\Proyecto0005\Proyecto0005\bin\Debug\Proyecto0005.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Proyecto0005\Proyecto0005\bin\Debug\Proyecto0005.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Proyecto0005\Proyecto0005\obj\Debug\Proyecto0005.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\Proyecto0005\Proyecto0005\obj\Debug\Proyecto0005.Form1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Proyecto0005\Proyecto0005\obj\Debug\Proyecto0005.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Proyecto0005\Proyecto0005\obj\Debug\Proyecto0005.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\Proyecto0005\Proyecto0005\obj\Debug\Proyecto0005.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Proyecto0005\Proyecto0005\obj\Debug\Proyecto0005.pdb
+G:\Proyecto0005\Proyecto0005\bin\Debug\Proyecto0005.exe.config
+G:\Proyecto0005\Proyecto0005\obj\Debug\Proyecto0005.exe
+G:\Proyecto0005\Proyecto0005\obj\Debug\Proyecto0005.pdb
